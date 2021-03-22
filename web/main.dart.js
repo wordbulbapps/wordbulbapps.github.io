@@ -58430,22 +58430,23 @@ return P.Z($async$rR,r)}}
 B.vv.prototype={
 ah:function(){return new B.KQ(C.i)}}
 B.KQ.prototype={
-H:function(a1,a2){var s,r,q,p,o,n,m,l,k=this,j=null,i="Update Interval",h="Price Difference",g="Going up text (put an @ sign for the location of price)",f="Going down text (put an @ sign for the location of price)",e=t.fQ,d=T.vd(H.b([new T.eZ(1,C.aU,Z.vY(j,L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,"Enter your FinnHub API Key",j,j,j,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j),new B.a6x(k)),j),Z.agj(),D.aaq(L.bE("Confirm the key",j,j,j,j,j,j),new B.a6y(k,a2),j)],e),C.aT,C.az,C.aA),c=Z.rJ(),b=T.vd(H.b([new T.eZ(1,C.aU,Z.vY(j,L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,"Enter stock ticker (eg GME for GameStop, won't stop)",j,j,j,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j),new B.a6z(k)),j),Z.agj(),D.aaq(L.bE("Confirm the ticker",j,j,j,j,j,j),new B.a6A(k,a2),j)],e),C.aT,C.az,C.aA),a=Z.rJ(),a0=L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),i,j,j,j,!1,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),i,j,j,j,j,j,j,j,j,j,j,j)
-a0=M.cj(j,new T.eZ(1,C.aU,Z.vY($.ak5(),a0,new B.a6B(a2)),j),j,j,j,j,j,j,j,j)
+H:function(a2,a3){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Update Interval",g="Price Difference",f="Going up text (put an @ sign for the location of price)",e="Going down text (put an @ sign for the location of price)",d=t.fQ,c=T.vd(H.b([new T.eZ(1,C.aU,Z.vY(i,L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,"Enter your FinnHub API Key",i,i,i,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i),new B.a6x(j)),i),Z.agj(),D.aaq(L.bE("Confirm the key",i,i,i,i,i,i),new B.a6y(j,a3),i)],d),C.aT,C.az,C.aA),b=Z.rJ(),a=T.vd(H.b([new T.eZ(1,C.aU,Z.vY(i,L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,"Enter stock ticker (eg GME for GameStop, won't stop)",i,i,i,!1,i,i,i,i,i,i,i,i,i,i,i,i,i,i),new B.a6z(j)),i),Z.agj(),D.aaq(L.bE("Confirm the ticker",i,i,i,i,i,i),new B.a6A(j,a3),i)],d),C.aT,C.az,C.aA),a0=Z.rJ(),a1=L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),h,i,i,i,!1,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),h,i,i,i,i,i,i,i,i,i,i,i)
+a1=M.cj(i,new T.eZ(1,C.aU,Z.vY($.ak5(),a1,new B.a6B(a3)),i),i,i,i,i,i,i,i,i)
 s=Z.rJ()
-r=L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),h,j,j,j,!1,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),h,j,j,j,j,j,j,j,j,j,j,j)
-r=M.cj(j,new T.eZ(1,C.aU,Z.vY($.akb(),r,new B.a6C(a2)),j),j,j,j,j,j,j,j,j)
+r=L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),g,i,i,i,!1,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),g,i,i,i,i,i,i,i,i,i,i,i)
+r=M.cj(i,new T.eZ(1,C.aU,Z.vY($.akb(),r,new B.a6C(a3)),i),i,i,i,i,i,i,i,i)
 q=Z.rJ()
-p=A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j)
-p=L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),g,j,j,j,!1,j,p,g,j,j,j,j,j,j,j,j,j,j,j)
-p=M.cj(j,new T.eZ(1,C.aU,Z.vY($.ake(),p,new B.a6D(a2)),j),j,j,j,j,j,j,j,j)
+p=A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i)
+p=L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),f,i,i,i,!1,i,p,f,i,i,i,i,i,i,i,i,i,i,i)
+p=M.cj(i,new T.eZ(1,C.aU,Z.vY($.ake(),p,new B.a6D(a3)),i),i,i,i,i,i,i,i,i)
 o=Z.rJ()
-n=A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j)
-n=L.nP(j,new F.dm(4,C.aR,C.bi),j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,A.eC(j,j,C.o,j,j,j,j,j,j,j,j,10,j,j,j,j,!0,j,j,j,j,j,j,j),f,j,j,j,!1,j,n,f,j,j,j,j,j,j,j,j,j,j,j)
-n=M.cj(j,new T.eZ(1,C.aU,Z.vY($.ak3(),n,new B.a6E(a2)),j),j,j,j,j,j,j,j,j)
+n=A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i)
+n=L.nP(i,new F.dm(4,C.aR,C.bi),i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,A.eC(i,i,C.o,i,i,i,i,i,i,i,i,10,i,i,i,i,!0,i,i,i,i,i,i,i),e,i,i,i,!1,i,n,e,i,i,i,i,i,i,i,i,i,i,i)
+n=M.cj(i,new T.eZ(1,C.aU,Z.vY($.ak3(),n,new B.a6E(a3)),i),i,i,i,i,i,i,i,i)
 m=Z.rJ()
-l=D.ae8(j,j,j,j,j,j,j,j,j,j,k.f?C.un:C.uo,j,j,j,j,j,j,j)
-return T.ih(M.cj(j,T.ng(H.b([d,c,b,a,a0,s,r,q,p,o,n,m,D.aaq(L.bE("Start the engines!",j,j,j,j,j,j),new B.a6F(k,a2),l)],e),C.aT,C.f4,C.aA),j,j,j,j,j,j,new V.az(15,71,15,15),j),j,j)}}
+l=j.f
+k=D.ae8(i,i,i,i,i,i,i,i,i,i,l?C.uo:C.un,i,i,i,i,i,i,i)
+return T.ih(M.cj(i,T.ng(H.b([c,b,a,a0,a1,s,r,q,p,o,n,m,D.aaq(L.bE(l?"Stop the Engines!":"Start the engines!",i,i,i,i,i,i),new B.a6F(j,a3),k)],d),C.aT,C.f4,C.aA),i,i,i,i,i,i,new V.az(15,71,15,15),i),i,i)}}
 B.a6x.prototype={
 $1:function(a){return this.a.e=a},
 $S:93}
